@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://flip.codin.pro/static/css/main.14b6c901.chunk.css",
-    "main.js": "https://flip.codin.pro/static/js/main.f991131a.chunk.js",
-    "main.js.map": "https://flip.codin.pro/static/js/main.f991131a.chunk.js.map",
-    "runtime~main.js": "https://flip.codin.pro/static/js/runtime~main.3f0f5236.js",
-    "runtime~main.js.map": "https://flip.codin.pro/static/js/runtime~main.3f0f5236.js.map",
-    "static/js/2.a8230a98.chunk.js": "https://flip.codin.pro/static/js/2.a8230a98.chunk.js",
-    "static/js/2.a8230a98.chunk.js.map": "https://flip.codin.pro/static/js/2.a8230a98.chunk.js.map",
-    "index.html": "https://flip.codin.pro/index.html",
-    "precache-manifest.ab9a39398f489f70d87fcd7554cd8abe.js": "https://flip.codin.pro/precache-manifest.ab9a39398f489f70d87fcd7554cd8abe.js",
-    "service-worker.js": "https://flip.codin.pro/service-worker.js",
-    "static/css/main.14b6c901.chunk.css.map": "https://flip.codin.pro/static/css/main.14b6c901.chunk.css.map"
+    "main.css": "https://ulow.github.io/csb-1x64s/static/css/main.14b6c901.chunk.css",
+    "main.js": "https://ulow.github.io/csb-1x64s/static/js/main.be555ae2.chunk.js",
+    "main.js.map": "https://ulow.github.io/csb-1x64s/static/js/main.be555ae2.chunk.js.map",
+    "runtime~main.js": "https://ulow.github.io/csb-1x64s/static/js/runtime~main.c65161de.js",
+    "runtime~main.js.map": "https://ulow.github.io/csb-1x64s/static/js/runtime~main.c65161de.js.map",
+    "static/js/2.a8230a98.chunk.js": "https://ulow.github.io/csb-1x64s/static/js/2.a8230a98.chunk.js",
+    "static/js/2.a8230a98.chunk.js.map": "https://ulow.github.io/csb-1x64s/static/js/2.a8230a98.chunk.js.map",
+    "index.html": "https://ulow.github.io/csb-1x64s/index.html",
+    "precache-manifest.7275f3c60d3914cf02e5d60d86584f88.js": "https://ulow.github.io/csb-1x64s/precache-manifest.7275f3c60d3914cf02e5d60d86584f88.js",
+    "service-worker.js": "https://ulow.github.io/csb-1x64s/service-worker.js",
+    "static/css/main.14b6c901.chunk.css.map": "https://ulow.github.io/csb-1x64s/static/css/main.14b6c901.chunk.css.map"
   }
 }
