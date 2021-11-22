@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-1x64s/static/css/main.14b6c901.chunk.css",
-    "main.js": "https://.github.io/csb-1x64s/static/js/main.f991131a.chunk.js",
-    "main.js.map": "https://.github.io/csb-1x64s/static/js/main.f991131a.chunk.js.map",
-    "runtime~main.js": "https://.github.io/csb-1x64s/static/js/runtime~main.3f0f5236.js",
-    "runtime~main.js.map": "https://.github.io/csb-1x64s/static/js/runtime~main.3f0f5236.js.map",
-    "static/js/2.a8230a98.chunk.js": "https://.github.io/csb-1x64s/static/js/2.a8230a98.chunk.js",
-    "static/js/2.a8230a98.chunk.js.map": "https://.github.io/csb-1x64s/static/js/2.a8230a98.chunk.js.map",
-    "index.html": "https://.github.io/csb-1x64s/index.html",
-    "precache-manifest.ab9a39398f489f70d87fcd7554cd8abe.js": "https://.github.io/csb-1x64s/precache-manifest.ab9a39398f489f70d87fcd7554cd8abe.js",
-    "service-worker.js": "https://.github.io/csb-1x64s/service-worker.js",
-    "static/css/main.14b6c901.chunk.css.map": "https://.github.io/csb-1x64s/static/css/main.14b6c901.chunk.css.map"
+    "main.css": "https://ulow.github.io/csb-1x64s/static/css/main.14b6c901.chunk.css",
+    "main.js": "https://ulow.github.io/csb-1x64s/static/js/main.f991131a.chunk.js",
+    "main.js.map": "https://ulow.github.io/csb-1x64s/static/js/main.f991131a.chunk.js.map",
+    "runtime~main.js": "https://ulow.github.io/csb-1x64s/static/js/runtime~main.3f0f5236.js",
+    "runtime~main.js.map": "https://ulow.github.io/csb-1x64s/static/js/runtime~main.3f0f5236.js.map",
+    "static/js/2.a8230a98.chunk.js": "https://ulow.github.io/csb-1x64s/static/js/2.a8230a98.chunk.js",
+    "static/js/2.a8230a98.chunk.js.map": "https://ulow.github.io/csb-1x64s/static/js/2.a8230a98.chunk.js.map",
+    "index.html": "https://ulow.github.io/csb-1x64s/index.html",
+    "precache-manifest.ab9a39398f489f70d87fcd7554cd8abe.js": "https://ulow.github.io/csb-1x64s/precache-manifest.ab9a39398f489f70d87fcd7554cd8abe.js",
+    "service-worker.js": "https://ulow.github.io/csb-1x64s/service-worker.js",
+    "static/css/main.14b6c901.chunk.css.map": "https://ulow.github.io/csb-1x64s/static/css/main.14b6c901.chunk.css.map"
   }
 }
